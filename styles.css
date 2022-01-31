@@ -1,0 +1,57 @@
+header {
+    background-color: #333333;
+    position: fixed;
+    width: 100%;
+  }
+  
+  nav {
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  nav li {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: inline-block;
+    width: 40px;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  .a {
+      margin-left: 20px ;
+      margin-right: 12cm;
+  }
+  .b{
+    margin-right: 12cm;
+  }
+  .image{
+      margin-top: 2.3cm;
+      width: 32cm;
+
+  }
+  .btn-main {
+ 
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    letter-spacing: 1.3px;
+    padding: px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .vv{
+      margin-left: 10cm;
+    }
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    margin-left: 30px;
+}
